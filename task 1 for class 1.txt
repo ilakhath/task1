@@ -1,0 +1,31 @@
+Class 1:
+1.what is data  science?
+A. Data science is the study of data to extract meaningful insights for business. It is a multidisciplinary approach that combines principles and practices from the fields of mathematics, statistics, artificial intelligence, and computer engineering to analyze large amounts of data. This analysis helps data scientists to ask and answer questions like what happened, why it happened,  will happen, and what can be done with the results.
+2.importants of statistics in data science?
+A. Why is statistics important in data science?
+
+In data science, statistics is at the core of sophisticated machine learning algorithms, capturing and translating data patterns into actionable evidence
+ 
+3.what is data engineering?
+ A.  Data engineering is the practice of designing and building systems for collecting, storing, and analyzing data at scale. 
+4.what is data visualization?
+ A.   Data visualization is the representation of data through use of common graphics, such as charts, plots, infographics, and even animations. These visual displays of information communicate complex data relationships and data-driven insights in a way that is easy to understand.
+
+5. What do you mean by data cleaning?
+ A. Data cleaning is the process of fixing or removing incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset. When combining multiple data sources, there are many opportunities for data to be duplicated or mislabeled.
+
+6. what is python and why we use it?
+Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.
+7.what is data in statistics ?
+A. Data is a collection of information gathered by observations, measurements, research or analysis. They may consist of facts, numbers, names, figures or even description of things. Data is organized in the form of graphs, charts or tables.
+
+8.what is statistics?
+A. Statistics is the science concerned with developing and studying methods for collecting, analyzing, interpreting and presenting empirical data.
+9.what is mathematics
+A. the science that is concerned with numbers and their properties, relations, and operations and with shapes in space and their structure and measurement.
+10.what is computer science?
+A. Computer Science is the study of computers and computational systems. Unlike electrical and computer engineers, computer scientists deal mostly with software and software systems; this includes their theory, design, development, and application.
+11.what is programming language?
+A. A programming language is a computer language that is used by programmers (developers) to communicate with computers. It is a set of instructions written in any specific language ( C, C++, Java, Python) to perform a specific task.
+
+
